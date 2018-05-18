@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">labo7</string>
+    <string name="lbl_registrar">Registrar</string>
+    <string name="lbl_consultar">Consultar Lista</string>
+    <string name="lbl_modificar">Modificar</string>
+    <string name="hnt_id">DUI</string>
+    <string name="hnt_nombre">Nombre</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="buscar">Buscar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
